@@ -21,13 +21,27 @@ More to go if having time:
 
 - control playback tempo
 - modify the original midi file
+- do some artistic things for it?
 
-### Ref
+## Ref
 #### Online websites
 
 [https://onlinesequencer.net/import](https://onlinesequencer.net/import)
 
+[http://midiplayer.ehubsoft.net/](http://midiplayer.ehubsoft.net/)
 
+#### Open-source projects
 
+[https://github.com/buildist/onlinesequencer](https://github.com/buildist/onlinesequencer)
+
+[https://github.com/notwaldorf/midi-visualizer](https://github.com/notwaldorf/midi-visualizer)
+
+#### Useful libraries
+
+[https://github.com/iooops/MIDI.js](https://github.com/iooops/MIDI.js)
+
+[https://github.com/surikov/webaudiofont](https://github.com/surikov/webaudiofont)
+
+[https://github.com/craigsapp/midifile](https://github.com/craigsapp/midifile)
 
 
